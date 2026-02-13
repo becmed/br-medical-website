@@ -1,0 +1,303 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="BR Medical - RFID-Powered Medical Supply Management for Nursing Homes">
+<title>BR Medical | Smart Medical Supply Management</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar">
+<div class="container">
+<div class="logo">
+<img src="BEC_Transparent.png" alt="BR Medical Logo" class="logo-img">
+<span class="logo-text">BR Medical</span>
+</div>
+<div class="nav-links">
+<a href="#features">Features</a>
+<a href="#benefits">Benefits</a>
+<a href="#contact" class="btn-demo">Request Demo</a>
+</div>
+</div>
+</nav>
+
+<!-- Hero Section -->
+<section class="hero">
+<div class="container">
+<div class="hero-content">
+<h1 class="hero-title">Revolutionize Your Medical Supply Management</h1>
+<p class="hero-subtitle">RFID-Powered Inventory Tracking with AI-Driven Predictions for Nursing Homes</p>
+<div class="hero-buttons">
+<a href="#contact" class="btn btn-primary">Request a Demo</a>
+<a href="#features" class="btn btn-secondary">Learn More</a>
+</div>
+</div>
+<div class="hero-stats">
+<div class="stat-card">
+<i class="fas fa-clock"></i>
+<h3>Save Time</h3>
+<p>No manual counting required</p>
+</div>
+<div class="stat-card">
+<i class="fas fa-dollar-sign"></i>
+<h3>Cut Costs</h3>
+<p>Eliminate emergency orders</p>
+</div>
+<div class="stat-card">
+<i class="fas fa-chart-line"></i>
+<h3>Optimize</h3>
+<p>AI-powered forecasting</p>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Problem Section -->
+<section class="problem-section">
+<div class="container">
+<h2 class="section-title">The Challenge Nursing Homes Face</h2>
+<div class="problem-grid">
+<div class="problem-card">
+<i class="fas fa-exclamation-triangle"></i>
+<h3>Costly Emergency Orders</h3>
+<p>Rush orders with premium shipping eat into your budget</p>
+</div>
+<div class="problem-card">
+<i class="fas fa-calendar-times"></i>
+<h3>Expired Products</h3>
+<p>Wasted inventory due to poor tracking and rotation</p>
+</div>
+<div class="problem-card">
+<i class="fas fa-users"></i>
+<h3>Staff Time Wasted</h3>
+<p>Manual counting takes valuable time from patient care</p>
+</div>
+<div class="problem-card">
+<i class="fas fa-chart-pie"></i>
+<h3>Unclear Expenses</h3>
+<p>Difficulty tracking true cost per bed (PPB)</p>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Features Section -->
+<section id="features" class="features-section">
+<div class="container">
+<h2 class="section-title">Our Smart Solution</h2>
+<p class="section-subtitle">Cutting-edge technology that saves time, money, and resources</p>
+
+<div class="features-grid">
+<div class="feature-card">
+<div class="feature-icon">
+<i class="fas fa-wifi"></i>
+</div>
+<h3>RFID Tracking System</h3>
+<p>Real-time visibility of every item in your inventory. Know exactly what you have, where it is, and when it was last used.</p>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">
+<i class="fas fa-brain"></i>
+</div>
+<h3>AI-Powered Predictions</h3>
+<p>Intelligent forecasting based on historical data and seasonal trends. Order the right amount at the right time.</p>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">
+<i class="fas fa-box"></i>
+</div>
+<h3>Smart Order Consolidation</h3>
+<p>One scheduled order per month. No more emergency orders, rush fees, or multiple shipping charges.</p>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">
+<i class="fas fa-bell"></i>
+</div>
+<h3>Low Stock Alerts</h3>
+<p>Automatic notifications when inventory runs low, preventing stockouts before they happen.</p>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">
+<i class="fas fa-calendar-check"></i>
+</div>
+<h3>Expiration Management</h3>
+<p>Track expiration dates automatically. Use oldest stock first and minimize waste.</p>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">
+<i class="fas fa-bed"></i>
+</div>
+<h3>Price Per Bed (PPB) Analytics</h3>
+<p>Know your exact supply costs per bed. Make informed budgeting decisions with precise data.</p>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">
+<i class="fas fa-file-invoice"></i>
+</div>
+<h3>Automated Invoice Processing</h3>
+<p>Upload invoices or auto-sync from our system. View pricing, compare costs, and manage payments effortlessly.</p>
+</div>
+
+<div class="feature-card">
+<div class="feature-icon">
+<i class="fas fa-clock"></i>
+</div>
+<h3>Free Up Staff Time</h3>
+<p>Eliminate manual counting. Let your staff focus on what matters most - patient care.</p>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Benefits Section -->
+<section id="benefits" class="benefits-section">
+<div class="container">
+<h2 class="section-title">Why Choose BR Medical?</h2>
+<div class="benefits-grid">
+<div class="benefit-item">
+<div class="benefit-number">01</div>
+<h3>Reduce Operational Costs</h3>
+<p>Eliminate emergency orders, reduce shipping costs, and minimize waste from expired products.</p>
+</div>
+<div class="benefit-item">
+<div class="benefit-number">02</div>
+<h3>Save Staff Time</h3>
+<p>Automated inventory management means no more manual counting or tracking - your staff can focus on residents.</p>
+</div>
+<div class="benefit-item">
+<div class="benefit-number">03</div>
+<h3>Never Run Out</h3>
+<p>AI-driven predictions ensure you always have what you need, exactly when you need it.</p>
+</div>
+<div class="benefit-item">
+<div class="benefit-number">04</div>
+<h3>Complete Transparency</h3>
+<p>Crystal-clear insights into your spending with PPB analytics and automated reporting.</p>
+</div>
+</div>
+</div>
+</section>
+
+<!-- How It Works -->
+<section class="how-section">
+<div class="container">
+<h2 class="section-title">How It Works</h2>
+<div class="steps-grid">
+<div class="step">
+<div class="step-number">1</div>
+<h3>RFID Implementation</h3>
+<p>We install RFID tags and readers throughout your facility for seamless tracking.</p>
+</div>
+<div class="step-arrow">→</div>
+<div class="step">
+<div class="step-number">2</div>
+<h3>Data Collection</h3>
+<p>Our system learns your usage patterns and builds intelligent forecasting models.</p>
+</div>
+<div class="step-arrow">→</div>
+<div class="step">
+<div class="step-number">3</div>
+<h3>Smart Automation</h3>
+<p>Receive optimized order recommendations and automated low-stock alerts.</p>
+</div>
+<div class="step-arrow">→</div>
+<div class="step">
+<div class="step-number">4</div>
+<h3>Streamlined Operations</h3>
+<p>Enjoy consolidated monthly orders, reduced costs, and complete inventory visibility.</p>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Contact/Demo Section -->
+<section id="contact" class="contact-section">
+<div class="container">
+<div class="contact-content">
+<div class="contact-info">
+<h2>Ready to Transform Your Supply Management?</h2>
+<p>Schedule a demo and see how BR Medical can save you time and money while improving your operations.</p>
+<div class="contact-details">
+<div class="contact-item">
+<i class="fas fa-envelope"></i>
+<span>info@brmedical.com</span>
+</div>
+<div class="contact-item">
+<i class="fas fa-phone"></i>
+<span>Contact us for a consultation</span>
+</div>
+<div class="contact-item">
+<i class="fas fa-map-marker-alt"></i>
+<span>Serving Nursing Homes Nationwide</span>
+</div>
+</div>
+</div>
+<div class="contact-form-wrapper">
+<form id="contactForm" class="contact-form">
+<h3>Request a Demo</h3>
+<div class="form-group">
+<input type="text" id="name" name="name" required placeholder="Your Name *">
+</div>
+<div class="form-group">
+<input type="email" id="email" name="email" required placeholder="Email Address *">
+</div>
+<div class="form-group">
+<input type="tel" id="phone" name="phone" placeholder="Phone Number">
+</div>
+<div class="form-group">
+<input type="text" id="facility" name="facility" placeholder="Facility Name">
+</div>
+<div class="form-group">
+<input type="number" id="beds" name="beds" placeholder="Number of Beds">
+</div>
+<div class="form-group">
+<textarea id="message" name="message" rows="4" placeholder="Tell us about your needs..."></textarea>
+</div>
+<button type="submit" class="btn btn-primary btn-full">Request Demo</button>
+</form>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+<div class="container">
+<div class="footer-content">
+<div class="footer-logo">
+<img src="BEC_Transparent.png" alt="BR Medical Logo" class="footer-logo-img">
+<p>Smart Medical Supply Management for Nursing Homes</p>
+</div>
+<div class="footer-links">
+<h4>Quick Links</h4>
+<a href="#features">Features</a>
+<a href="#benefits">Benefits</a>
+<a href="#contact">Contact</a>
+</div>
+<div class="footer-social">
+<h4>Connect With Us</h4>
+<div class="social-icons">
+<a href="#"><i class="fab fa-linkedin"></i></a>
+<a href="#"><i class="fab fa-facebook"></i></a>
+<a href="#"><i class="fab fa-twitter"></i></a>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<p>&copy; 2026 BR Medical. All rights reserved.</p>
+</div>
+</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
